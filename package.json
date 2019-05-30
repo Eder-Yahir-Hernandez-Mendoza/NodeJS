@@ -1,0 +1,20 @@
+{
+  "name": "nodefileshernandezeder",
+  "version": "10.15.3",
+  "description": "",
+  "main": "FileSystem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eder-Yahir-Hernandez-mendoza/NodeJS.git"
+  },
+  "author": "Eder Yahir Hernandez Menodza\u001b[D\u001bdo\u001b[C\u001b[C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eder-Yahir-Hernandez-mendoza/NodeJS/issues"
+  },
+  "homepage": "https://github.com/Eder-Yahir-Hernandez-mendoza/NodeJS#readme"
+}
