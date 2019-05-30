@@ -1,18 +1,18 @@
 {
   "name": "nodefileshernandezeder",
   "version": "10.15.3",
-  "description": "",
-  "main": "FileSystem.js",
+  "description": "Simple Web App",
+  "main": "pages.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node pages.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Eder-Yahir-Hernandez-mendoza/NodeJS.git"
   },
-  "author": "Eder Yahir Hernandez Menodza\u001b[D\u001bdo\u001b[C\u001b[C",
-  "license": "ISC",
+  "author": "Eder Yahir Hernandez Menodza",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Eder-Yahir-Hernandez-mendoza/NodeJS/issues"
   },
